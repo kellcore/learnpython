@@ -1,6 +1,7 @@
 # here's some new stuff
 
 days = "Mon Tue Wed Thur Fri Sat Sun"
+# \n (backslash n) = new line character
 months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 print("Here are the days: ", days)
