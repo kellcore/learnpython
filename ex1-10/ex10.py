@@ -21,3 +21,12 @@ print(persian_cat)
 print(backslash_cat)
 print(fat_cat)
 print(fatter_cat)
+
+calico_cat = '''
+Here's a cool new list for all the hep cats!
+\t* Cat \\ Essentials \\
+    \t\v+ Springy Grass
+    \t\v+ Toe Bean Cleaner
+    \t\v+ Tail Fluffer
+'''
+print(calico_cat)
